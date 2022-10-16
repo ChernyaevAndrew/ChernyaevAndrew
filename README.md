@@ -1,6 +1,6 @@
 ![Header](https://github.com/ChernyaevAndrew/ChernyaevAndrew/blob/main/assets/moshi-sleep.gif)
 
-About me
+## I'm a beginner QA Engineer
 
 Languages and Tools
 
