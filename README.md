@@ -19,7 +19,7 @@
 ### Testing Documentation
 
 - [Checklists](https://github.com/chernyaevandrew/checklists)
-- [Test-Suites and Test-Cases](https://github.com/chernyaevandrew/test-cases)
+- [Test-Cases](https://github.com/chernyaevandrew/test-cases)
 - [Bug-Reports](https://github.com/chernyaevandrew/bug-reports)
 - [SQL Queries](https://github.com/chernyaevandrew/SQL)
 - [Postman Collections](https://github.com/chernyaevandrew/postman)
