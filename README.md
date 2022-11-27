@@ -22,7 +22,6 @@
 - [Test-Cases](https://github.com/chernyaevandrew/test-cases)
 - [Bug-Reports](https://github.com/chernyaevandrew/bug-reports)
 - [SQL Queries](https://github.com/chernyaevandrew/SQL)
-- [Postman Collections](https://github.com/chernyaevandrew/postman)
 
 ### Contacts
 [![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/chernyaev_andrew)
